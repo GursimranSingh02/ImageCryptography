@@ -2,7 +2,7 @@ import streamlit as st
 from ImageCryptography import encrypt_image, decrypt_image, generate_key
 
 # Page configuration
-st.set_page_config(page_title='AES Image Cryptor', page_icon='/Python/ImageCryption/user_secret.ico')
+st.set_page_config(page_title='AES Image Cryptor', page_icon='user_secret.ico')
 
 # Title
 st.title('AES Image Cryptor')
