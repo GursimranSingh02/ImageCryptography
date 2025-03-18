@@ -10,5 +10,6 @@ AES Image Encryption is a Python application that allows you to encrypt and decr
 - Simple user interface provided via a Streamlit web application.
 
 
-## Link
-https://aes-image-cryptor.streamlit.app/
+## Working Project
+
+You can view and interact with the working project [here](https://aes-image-cryptor.streamlit.app/).
